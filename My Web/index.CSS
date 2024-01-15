@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(238, 233, 237);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  -moz-text-decoration-color: coral;
+  font-style: initial;
+}
+h1 {
+  text-shadow: rgb(209, 28, 28);
+  color: rgba(8, 7, 4, 0.432);
+  background-color: rgb(235, 221, 31);
+}
